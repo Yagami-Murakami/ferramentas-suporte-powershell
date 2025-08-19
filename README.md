@@ -1,93 +1,70 @@
-# ferramentas-suporte-powershell
-Script PowerShell para ferramentas essenciais de suporte técnico
 # 🔧 Ferramentas Essenciais de Suporte - Tuninho kjr
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 Script PowerShell profissional para técnicos de suporte com interface colorida e intuitiva.
 
+## 🎨 Preview
+
+================================================================
+FERRAMENTAS ESSENCIAIS DE SUPORTE
+Criado por Tuninho kjr
+REDE
+1 - Exibir configuracoes de IP (ipconfig /all)
+2 - Limpar cache de DNS (flushdns)
+3 - Liberar e Renovar IP
+4 - Redefinir configuracoes de rede (netsh winsock reset)
+5 - Verificar tabela de MAC address na rede (ARP -A)
+6 - Imprimir rotas apreendidas na rede (ROUTE PRINT)
 ## 🚀 Funcionalidades
 
 ### 🌐 **REDE**
-- ✅ Exibir configurações de IP (ipconfig /all)
-- ✅ Limpar cache de DNS (flushdns) 
-- ✅ Liberar e renovar IP
-- ✅ Redefinir configurações de rede (netsh winsock reset)
-- ✅ Verificar tabela de MAC address (ARP -A)
-- ✅ Imprimir rotas de rede (ROUTE PRINT)
+- ✅ Configurações de IP (ipconfig /all)
+- ✅ Limpeza de cache DNS
+- ✅ Renovação de IP automática
+- ✅ Reset de configurações de rede
+- ✅ Tabela ARP e rotas
 
 ### 👤 **USUÁRIOS E DOMÍNIO** 
-- ✅ Verificar usuário de domínio
+- ✅ Verificação de usuário e domínio
 
 ### 💾 **DISCO E SISTEMA**
-- ✅ Limpar arquivos temporários
-- ✅ Abrir limpeza de disco do Windows
-- ✅ Verificar integridade dos arquivos (SFC /scannow)
-- ✅ Verificar disco em busca de erros (CHKDSK)
-- ✅ Reparar imagem do Windows (DISM)
+- ✅ Limpeza de arquivos temporários
+- ✅ Verificação de integridade (SFC)
+- ✅ Verificação de disco (CHKDSK)
+- ✅ Reparo de imagem Windows (DISM)
 
 ### ⚙️ **OUTROS**
-- ✅ Forçar atualização de políticas de grupo (gpupdate)
+- ✅ Atualização de políticas de grupo
 
 ## 📦 Como Usar
 
-### **Pré-requisitos**
+### **Instalação Rápida**
+1. **Baixe** o arquivo `TuninhoKjr-SupportTools.ps1`
+2. **Abra PowerShell** como administrador
+3. **Execute:** `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
+4. **Execute:** `.\TuninhoKjr-SupportTools.ps1`
+
+### **Interface**
+- 🎨 **Cores específicas** para cada opção
+- 📋 **Headers visuais** durante execução
+- ✅ **Feedback em tempo real**
+- 🔄 **Menu intuitivo** e organizado
+
+## ⚠️ Requisitos
+
 - Windows 10/11
-- PowerShell 5.1 ou superior
-- Privilégios de administrador (para algumas funções)
-
-### **Instalação**
-1. Baixe o arquivo `TuninhoKjr-SupportTools.ps1`
-2. Abra PowerShell como administrador
-3. Execute: `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
-4. Navegue até a pasta do arquivo
-5. Execute: `.\TuninhoKjr-SupportTools.ps1`
-
-### **Uso**
-- Digite o número da opção desejada
-- Pressione Enter
-- Siga as instruções na tela
-
-## 🎨 Interface
-
-- **Interface colorida** com cores específicas para cada opção
-- **Headers visuais** para identificar qual comando está sendo executado
-- **Feedback visual** com símbolos de status
-- **Menu intuitivo** organizado por categorias
-
-## ⚠️ Avisos Importantes
-
-- Algumas funções requerem privilégios de administrador
-- Comandos como SFC e DISM podem demorar muito tempo
-- Sempre faça backup antes de usar ferramentas de reparo
-
-## 🔧 Funcionalidades Técnicas
-
-- Verificação automática de privilégios administrativos
-- Limpeza segura de arquivos temporários
-- Tratamento de erros
-- Interface responsiva
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+- PowerShell 5.1+
+- Privilégios administrativos (para algumas funções)
 
 ## 👤 Autor
 
 **Tuninho kjr** - Especialista em Suporte Técnico e Cybersecurity
 
-## 🤝 Contribuições
+## 📄 Licença
 
-Contribuições são bem-vindas! Por favor:
-1. Fork o projeto
-2. Crie uma branch para sua feature
-3. Commit suas mudanças
-4. Push para a branch
-5. Abra um Pull Request
-
-## 📞 Suporte
-
-Se encontrar problemas ou tiver sugestões:
-- Abra uma [issue](../../issues)
-- Entre em contato pelo GitHub
+MIT License - Uso livre para fins educacionais e profissionais
 
 ---
-⭐ Se este projeto te ajudou, deixe uma estrela!
+⭐ **Se este projeto te ajudou, deixe uma estrela!**
