@@ -3,8 +3,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Script PowerShell profissional para técnicos de suporte com interface colorida e intuitiva.
-
 
 ## 🚀 Funcionalidades
 
