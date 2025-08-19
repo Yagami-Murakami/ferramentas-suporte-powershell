@@ -5,11 +5,7 @@
 
 Script PowerShell profissional para técnicos de suporte com interface colorida e intuitiva.
 
-## 🎨 Preview
-
-============================================================
-
-
+================================================================
 FERRAMENTAS ESSENCIAIS DE SUPORTE
 Criado por Tuninho kjr
 REDE
@@ -19,6 +15,7 @@ REDE
 4 - Redefinir configuracoes de rede (netsh winsock reset)
 5 - Verificar tabela de MAC address na rede (ARP -A)
 6 - Imprimir rotas apreendidas na rede (ROUTE PRINT)
+
 ## 🚀 Funcionalidades
 
 ### 🌐 **REDE**
