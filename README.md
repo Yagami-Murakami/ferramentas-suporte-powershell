@@ -5,16 +5,6 @@
 
 Script PowerShell profissional para técnicos de suporte com interface colorida e intuitiva.
 
-================================================================
-FERRAMENTAS ESSENCIAIS DE SUPORTE
-Criado por Tuninho kjr
-REDE
-1 - Exibir configuracoes de IP (ipconfig /all)
-2 - Limpar cache de DNS (flushdns)
-3 - Liberar e Renovar IP
-4 - Redefinir configuracoes de rede (netsh winsock reset)
-5 - Verificar tabela de MAC address na rede (ARP -A)
-6 - Imprimir rotas apreendidas na rede (ROUTE PRINT)
 
 ## 🚀 Funcionalidades
 
