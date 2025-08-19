@@ -8,6 +8,8 @@ Script PowerShell profissional para técnicos de suporte com interface colorida 
 ## 🎨 Preview
 
 ============================================================
+
+
 FERRAMENTAS ESSENCIAIS DE SUPORTE
 Criado por Tuninho kjr
 REDE
