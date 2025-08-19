@@ -3,6 +3,8 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<img width="567" height="576" alt="suporte" src="https://github.com/user-attachments/assets/1f5bbd30-d1a4-400f-b752-3bbe1a4e7600" />
+
 
 ## 🚀 Funcionalidades
 
@@ -55,3 +57,4 @@ MIT License - Uso livre para fins educacionais e profissionais
 
 ---
 ⭐ **Se este projeto te ajudou, deixe uma estrela!**
+<img width="567" height="576" alt="suporte" src="https://github.com/user-attachments/assets/1f5bbd30-d1a4-400f-b752-3bbe1a4e7600" />
